@@ -6,7 +6,7 @@
 		  Author: WP Plugin Ninja
 		  Author URI: http://www.wpplugin.ninja/
 		  Text Domain: wppninja-bootstrap-gallery
-		  Version: 1.0
+		  Version: 1.0.1
 
 		  Licenced under the GNU GPL:
 
