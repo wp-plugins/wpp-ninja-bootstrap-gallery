@@ -44,6 +44,9 @@ A: Unfortunately the Magnific Popup is hardcoded into the plugin. Please let me 
 
 == Changelog ==
 
+= 1.0.1 =
+Moved wppninja-bootstrap-gallery-admin.js to footer, to fix conflict with Site Icon not loading in WordPress 4.3
+
 = 1.0 =
 Initial release of plugin.
 

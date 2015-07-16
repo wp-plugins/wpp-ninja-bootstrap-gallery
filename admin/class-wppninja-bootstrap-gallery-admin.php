@@ -72,7 +72,7 @@ class Wppninja_Bootstrap_Gallery_Admin {
 		 * between the defined hooks and the functions defined in this
 		 * class.
 		 */
-		 wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/wppninja-bootstrap-gallery-admin.js', array( 'media-views' ), $this->version, false );
+		 wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/wppninja-bootstrap-gallery-admin.js', array( 'media-views' ), $this->version, true );
 	}
 
 	/**
